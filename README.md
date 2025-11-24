@@ -2,16 +2,15 @@
 
 ## Jason, Nadir, Anthony, Derrick
 
-Your project should include data cleaning, exploratory data analysis (EDA), and statistical analysis that lead to a clear, visual story.
+# Dataset 1
+![img.png](img.png)
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
 
-    Clean and preprocess your data (handle missing values, outliers, formatting, etc.).
-
-    Conduct exploratory and statistical analyses to uncover meaningful patterns or relationships.
-
-    Use appropriate visualizations (charts, graphs, maps, etc.) to support your findings.
-
-    Tell a coherent and compelling story: What question are you exploring? What did you find? Why does it matter?
-
+# Dataset 2 
+![img_3.png](img_3.png)
+![img_4.png](img_4.png)
+![img_5.png](img_5.png)
 # What question are you exploring? 
 
 The question we exploring is is there a correlation between depression rate and the state you live in.
