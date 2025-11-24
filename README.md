@@ -12,3 +12,11 @@ Your project should include data cleaning, exploratory data analysis (EDA), and 
 
     Tell a coherent and compelling story: What question are you exploring? What did you find? Why does it matter?
 
+# What question are you exploring? 
+
+The question we exploring is is there a correlation between depression rate and the state you live in.
+# What did you find? 
+
+
+# Why does it matter?
+
