@@ -11,9 +11,10 @@
 ![img_3.png](img_3.png)
 ![img_4.png](img_4.png)
 ![img_5.png](img_5.png)
+
 # What question are you exploring? 
 
-The question we exploring is is there a correlation between depression rate and the state you live in.
+
 # What did you find? 
 
 
