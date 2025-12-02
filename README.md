@@ -26,3 +26,4 @@ The highest states are in the south and appalachian and they have lower incomes,
 
 # Why does it matter?
 
+Identifying the rates of depression could be vital to understanding how large scale environmental factors can contribute to a person's mental health. It must be explored how their mental health could contribute to their behaviors and their likelihood to do either positive or negative things. Gathering and understanding the data is a powerful tool that would allow us as a society to send more resources to areas with high rates of depression and that would help those suffering from depression. It would also allow us to study how making those changes to the environment and those large scale factors effect the states with the highest rates of depression. Investing in the infrastructure of those states and even changing the current infrastructure would likely allow for those who are depressed to become better.
